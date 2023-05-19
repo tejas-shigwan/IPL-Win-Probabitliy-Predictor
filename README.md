@@ -5,10 +5,10 @@ DETAILS OF SOFTWARE –
 
 Software requirement –
 
-WINDOWS 7 / 8 / 10 
-PyCharm / VS code
-Python packages
-Jupyter notebook
+1. WINDOWS 7 / 8 / 10 
+2. PyCharm / VS code
+3. Python packages
+4. Jupyter notebook
 
 The interface will be like this - 
 
