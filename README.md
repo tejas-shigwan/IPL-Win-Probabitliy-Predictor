@@ -1,4 +1,4 @@
-# IPL-Win-Probabitliy-Predictor
+# IPL-Win-Probablity-Predictor
 This project will help us to find which is gonna win, based the input we given like target, runs, wickets, etc.
 
 DETAILS OF SOFTWARE –
